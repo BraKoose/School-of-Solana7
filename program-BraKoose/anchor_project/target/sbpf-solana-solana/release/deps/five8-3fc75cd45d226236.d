@@ -1,0 +1,11 @@
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/libfive8-3fc75cd45d226236.rmeta: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/decode.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/encode.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/unlikely.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/../README.md
+
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/libfive8-3fc75cd45d226236.rlib: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/decode.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/encode.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/unlikely.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/../README.md
+
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/five8-3fc75cd45d226236.d: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/decode.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/encode.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/unlikely.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/../README.md
+
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/lib.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/decode.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/encode.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/unlikely.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/five8-0.2.1/src/../README.md:

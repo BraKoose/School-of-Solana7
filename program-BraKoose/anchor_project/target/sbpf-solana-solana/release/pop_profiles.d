@@ -1,0 +1,1 @@
+/home/koose/Desktop/School\ of\ Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/pop_profiles.so: /home/koose/Desktop/School\ of\ Solana/program-BraKoose/anchor_project/programs/pop_profiles/src/lib.rs

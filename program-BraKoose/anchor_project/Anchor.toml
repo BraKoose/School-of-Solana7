@@ -1,0 +1,18 @@
+[programs.localnet]
+pop_profiles = "G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx"
+
+[programs.devnet]
+pop_profiles = "G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "./target/deploy/pop_profiles-keypair.json"
+
+[scripts]
+test = "yarn run ts-mocha -p tsconfig.json -t 1000000 tests/**/*.ts"
+
+[toolchain]
+anchor_version = "0.30.1"

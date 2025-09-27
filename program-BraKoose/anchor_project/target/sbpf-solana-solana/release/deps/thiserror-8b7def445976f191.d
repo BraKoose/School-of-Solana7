@@ -1,0 +1,11 @@
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/libthiserror-8b7def445976f191.rmeta: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/aserror.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/display.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/provide.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/var.rs
+
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/libthiserror-8b7def445976f191.rlib: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/aserror.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/display.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/provide.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/var.rs
+
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/thiserror-8b7def445976f191.d: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/aserror.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/display.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/provide.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/var.rs
+
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/lib.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/aserror.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/display.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/provide.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.16/src/var.rs:

@@ -1,0 +1,7 @@
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/libsolana_decode_error-2fd120eb6fb57768.rmeta: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-decode-error-2.3.0/src/lib.rs
+
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/libsolana_decode_error-2fd120eb6fb57768.rlib: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-decode-error-2.3.0/src/lib.rs
+
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/solana_decode_error-2fd120eb6fb57768.d: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-decode-error-2.3.0/src/lib.rs
+
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-decode-error-2.3.0/src/lib.rs:

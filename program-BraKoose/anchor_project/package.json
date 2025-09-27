@@ -1,0 +1,29 @@
+{
+  "name": "pop-profiles-anchor",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "prebuild": "node ../scripts/sync-program-id.js",
+    "build": "anchor build",
+    "test": "anchor test",
+    "deploy": "anchor deploy",
+    "sync-id": "node ../scripts/sync-program-id.js",
+    "lint": "eslint . --ext .ts"
+  },
+  "devDependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@types/chai": "^4.3.11",
+    "@types/mocha": "^10.0.6",
+    "chai": "^4.4.1",
+    "mocha": "^10.6.0",
+    "ts-mocha": "^10.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "eslint": "^8.57.0",
+    "@typescript-eslint/eslint-plugin": "^7.16.0",
+    "@typescript-eslint/parser": "^7.16.0"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.2"
+  }
+}

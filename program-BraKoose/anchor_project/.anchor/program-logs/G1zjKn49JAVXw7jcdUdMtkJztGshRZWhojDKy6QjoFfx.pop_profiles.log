@@ -1,0 +1,42 @@
+Streaming transaction logs mentioning G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx. Confirmed commitment
+Transaction executed in slot 6:
+  Signature: 5ZBGQmXcBCDyB69WcRvN1UbQxycGHhtkBDxpm6wVSefuvTn5mFNMwDAXJWCms1ySidYUaDVVLWruAR4T7GVxrUJ4
+  Status: Ok
+  Log Messages:
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx invoke [1]
+    Program log: Instruction: CreateUserProfile
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 0zMpoRXS3uMO/T/huEIFgJUnuFp4oN5dFIOQ0cS0CqKdgoyOcixsPUeFUE47tPyXHP26sgKg9NCkVSN/EqelUeXj7ImzEJGMBQAAAGFsaWNlDwAAAHJ1c3QmYW5jaG9yIGRldvVBr2gAAAAAAAAAAAAAAAA=
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx consumed 9034 of 200000 compute units
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx success
+Transaction executed in slot 7:
+  Signature: 51ktBWbujnUfh8iQGt1NZ981otMdT6zdz2jGENEGREcw8cEt2aq2JtCEXnM19pjQpZj4bAcTcQGtuxonMrc2xq7i
+  Status: Ok
+  Log Messages:
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx invoke [1]
+    Program log: Instruction: AddCertification
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: fGEF4+kZIh8O/T/huEIFgJUnuFp4oN5dFIOQ0cS0CqKdgoyOcixsPQAAAAAKAAAAU29sYW5hIFBvUBkAAABodHRwczovL2lwZnMuZXhhbXBsZS9oYXNoR4VQTju0/Jcc/bqyAqD00KRVI38Sp6VR5ePsibMQkYw=
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx consumed 16987 of 200000 compute units
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx success
+Transaction executed in slot 9:
+  Signature: 51u9779u75FCJs6UeDokVaqzrn6gGvbm73jN9eKY9UoHsCyWWMAiZRJazJMgCcx9KDo4txhn6ApU6K4QdPFNPHbT
+  Status: Ok
+  Log Messages:
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx invoke [1]
+    Program log: Instruction: EndorseUser
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 0iGs53YVve8O/T/huEIFgJUnuFp4oN5dFIOQ0cS0CqKdgoyOcixsPQAAAAAtlEAeKp7tJWqOHpiz0NkoTd8RiUCOnJ0rKip2WblXGgU=
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx consumed 11814 of 200000 compute units
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx success
+Transaction executed in slot 10:
+  Signature: 3DhBgz45kJVb9CfdLUyX7tpo5TSW2zZC5rkzxjYCHgJHXrqYct8gnLTCao2RD7ptMzdCuX73P1b4m6bLLy8c3Ca
+  Status: Ok
+  Log Messages:
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx invoke [1]
+    Program log: Instruction: EmitViewProfile
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx consumed 3117 of 200000 compute units
+    Program G1zjKn49JAVXw7jcdUdMtkJztGshRZWhojDKy6QjoFfx success

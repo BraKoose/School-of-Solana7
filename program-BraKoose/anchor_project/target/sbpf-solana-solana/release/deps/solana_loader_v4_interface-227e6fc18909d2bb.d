@@ -1,0 +1,9 @@
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/libsolana_loader_v4_interface-227e6fc18909d2bb.rmeta: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/libsolana_loader_v4_interface-227e6fc18909d2bb.rlib: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/home/koose/Desktop/School of Solana/program-BraKoose/anchor_project/target/sbpf-solana-solana/release/deps/solana_loader_v4_interface-227e6fc18909d2bb.d: /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs:
+/home/koose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs:
